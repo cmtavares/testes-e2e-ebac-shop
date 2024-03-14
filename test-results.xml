@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="10.830" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-03-14T19:14:11" tests="0" file="cypress\e2e\login.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Funcionalidade Login" timestamp="2024-03-14T19:14:11" tests="3" time="10.826" failures="0">
+    <testcase name="Funcionalidade Login Login com sucesso usando Comando customizado" time="4.144" classname="Login com sucesso usando Comando customizado">
+    </testcase>
+    <testcase name="Funcionalidade Login Login usando fixture" time="2.780" classname="Login usando fixture">
+    </testcase>
+    <testcase name="Funcionalidade Login Deve fazer login com sucesso - sem otimização" time="2.581" classname="Deve fazer login com sucesso - sem otimização">
+    </testcase>
+  </testsuite>
+</testsuites>
