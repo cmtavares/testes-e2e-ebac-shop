@@ -11,7 +11,7 @@ module.exports = defineConfig({
   },
   reporter: 'mochawesome',
   reporterOptions: {
-    reportFilename: "[name]-result",
+    reportFilename: "index.html",
     html: true
   }
 })
